@@ -8,10 +8,10 @@ M5Cardputer user demo for hardware evaluation.
 #### Build
 
 ```bash
-git clone https://github.com/m5stack/M5Cardputer-UserDemo
+git clone https://github.com/fortisq/M5Cardputer-fortisq
 ```
 ```bash
-cd M5Cardputer-UserDemo
+cd M5Cardputer-fortisq
 ```
 ```bash
 idf.py build
